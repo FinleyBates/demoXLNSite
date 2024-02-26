@@ -1,0 +1,19 @@
+﻿button.min-button {
+    border-radius: 60px;
+}
+
+.message-button {
+    display: none;
+    background-color: #2596be !important;
+}
+
+.toolbar {
+    background-color: #2596be !important;
+}
+
+.lex-web-ui-iframe, #lex-web-ui {
+    min-width: 25vw !important;
+    max-height: 315px !important;
+    margin-right: 18vw !important;
+    margin-bottom: 10px !important;
+}

@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\CSS\\ChatBot.css",
+      "PackagePath": "staticwebassets\\CSS\\ChatBot.css"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\CSS\\custom-chatbot-style.css",
+      "PackagePath": "staticwebassets\\CSS\\custom-chatbot-style.css"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\CSS\\new_XLN_Chatbot.styles.css",
+      "PackagePath": "staticwebassets\\CSS\\new_XLN_Chatbot.styles.css"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\XLN.png",
+      "PackagePath": "staticwebassets\\XLN.png"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\how to implement lex in blzaor - Google Search.html",
+      "PackagePath": "staticwebassets\\how to implement lex in blzaor - Google Search.html"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\js\\scrollFunctions.js",
+      "PackagePath": "staticwebassets\\js\\scrollFunctions.js"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\person.svg",
+      "PackagePath": "staticwebassets\\person.svg"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\robot.svg",
+      "PackagePath": "staticwebassets\\robot.svg"
+    },
+    {
+      "Id": "D:\\BlazorApp3\\BlazorApp3\\wwwroot\\workflowImage.png",
+      "PackagePath": "staticwebassets\\workflowImage.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp3.props",
+      "PackagePath": "build\\BlazorApp3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp3.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp3.props",
+      "PackagePath": "buildTransitive\\BlazorApp3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
